@@ -1,0 +1,9 @@
+python-dotenv
+
+pip install rich
+
+pip install langchain
+
+pip install ipython
+
+pip install langchain-openai
